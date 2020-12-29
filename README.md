@@ -1,5 +1,5 @@
 # dumbot
-The current goal is to create a roomba using the on board echolocation module
+The current goal is to create a roomba using the onboard echolocation module
 
 ## bot specs
 * Arduino Uno microcontroller board
