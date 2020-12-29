@@ -5,3 +5,8 @@ The current goal is to create a roomba using the onboard echolocation module
 * Arduino Uno microcontroller board
 * HC-SR04 ultrasonic distance sensor
 * Dual bidirectional motors
+
+## todo
+* Ultra sonic distence meaturing
+* Wheel Differential turning
+* steering motor controlling
